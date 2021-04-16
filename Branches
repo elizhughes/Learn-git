@@ -14,3 +14,8 @@ Scroll down to the commit button.
 Note: It says comit directly to the unicorn branch.
 Alo note:  Create a new branch for this commit and start a pull request. This allows you to create a new branch for the commit.
 Just now commit to Unicorn branch.
+
+Branching is making a more substantive commitment to your changes and putting them in a new path.
+Allows you to have 2 possibilities going on at the same time.
+However, what if you want to bring the unicorn branch back into the master branch.
+Go into Graphs and then network to see the branching of your repo.
