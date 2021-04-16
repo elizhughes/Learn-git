@@ -8,3 +8,9 @@ I want to branch off and create a branch called 'Unicorn' for experimentation.
 Top LHS of screen is a brach-like symbol with 'Master' next to it.
 My files so far are on this master branch.
 I don't have any other branches so far.
+
+So, now I'm going to start to edit this branch by adding a unicorn.
+Scroll down to the commit button.
+Note: It says comit directly to the unicorn branch.
+Alo note:  Create a new branch for this commit and start a pull request. This allows you to create a new branch for the commit.
+Just now commit to Unicorn branch.
