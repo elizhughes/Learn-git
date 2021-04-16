@@ -19,3 +19,18 @@ Branching is making a more substantive commitment to your changes and putting th
 Allows you to have 2 possibilities going on at the same time.
 However, what if you want to bring the unicorn branch back into the master branch.
 Go into Insights and then network to see the branching of your repo.
+
+Pull request and merge.
+A Pull request in pulling something in.
+A Push request is sending something somewhere else.
+Essentially we will get the Unicorn branch to ask the main branch...
+Will you take my changes and pull them into the main branch?
+At he top of the screen there is a box with 'Unicorn had recent pushes 3 mins ago1
+and another box with 'Compare and pull request'. i.e. want what you just did in unicorn to go back into main branch.
+Click 'Compare and pull request', this opens up 'Open a pull request'.
+Add info on what you are doing, ee.g. I added info on branches
+Click 'Create pull request'
+Git can tell if there are conflicts or not and determine if the merge is possible.
+A conflict usually only arises if you are editing the same line in 2 branches.
+Complete the action by clicking 'Merge pull request' and 'Confirm merge'.
+Go back to insights and you on network you can visually see this merge.
