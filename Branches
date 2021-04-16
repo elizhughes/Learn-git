@@ -5,6 +5,13 @@ If I want to experiment and maybe not keep it, I need a branch.
 A git hub repo the main linear list of commits is on the 'Master Branch'
 You can have lots of different branches.
 I want to branch off and create a branch called 'Unicorn' for experimentation.
-Top LHS of screen is a brach-like symbol with 'Master' next to it.
+Top LHS of screen is a brach-like symbol with 'Main' next to it.
 My files so far are on this master branch.
 I don't have any other branches so far.
+Click on 'Main' and a box with 'Find or create a branch' will appear.
+In this box type 'Unicorn'.
+You are then given an option to 'Create branch: Unicorn' fro the main branch because this branch does not exist.
+If it did exist it would give me the option to switch to this branch.
+Click on create branch.
+The Unicorn branch is now created.
+Go to the Unicorn branch.
