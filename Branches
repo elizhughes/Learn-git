@@ -5,3 +5,6 @@ If I want to experiment and maybe not keep it, I need a branch.
 A git hub repo the main linear list of commits is on the 'Master Branch'
 You can have lots of different branches.
 I want to branch off and create a branch called 'Unicorn' for experimentation.
+Top LHS of screen is a brach-like symbol with 'Master' next to it.
+My files so far are on this master branch.
+I don't have any other branches so far.
