@@ -8,3 +8,10 @@ NB; Git and Github can work with and keep track of many file formats.
 Start with a text format .txt
 Add a description below and then click 'Commit new file'.
 A commit is to change the file and make a commit, kind of like saving the file.
+Use the edit button (pencil) to edit a file.
+edit your file.
+Scroll down to 'Commit changes'.
+Each change or commit should have a note associated with it to indicate the change.
+This is very useful for collaborative projects.
+Great commit summaries contain fewer than 50 characters. Place extra information in the extended description.
+hit 'Commit changes'
