@@ -15,3 +15,4 @@ Each change or commit should have a note associated with it to indicate the chan
 This is very useful for collaborative projects.
 Great commit summaries contain fewer than 50 characters. Place extra information in the extended description.
 hit 'Commit changes'
+'History' will show you the history of the commits you have created in this file.
