@@ -1,0 +1,10 @@
+A repository or repo is a collection of files.
+To make a new repo click on the green 'New' button.
+Name the repo.
+Check the 'Public' and @Add a readme file' boxes.
+Click 'Create Repository'.
+Click 'Add file' and 'Create Bew File' and give it a name.
+NB; Git and Github can work with and keep track of many file formats. 
+Start with a text format .txt
+Add a description below and then click 'Commit new file'.
+A commit is to change the file and make a commit, kind of like saving the file.
