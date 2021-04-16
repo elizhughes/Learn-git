@@ -21,6 +21,8 @@ However, what if you want to bring the unicorn branch back into the master branc
 Go into Insights and then network to see the branching of your repo.
 
 Pull request and merge.
+First go to main page: Learn-Git
+
 A Pull request in pulling something in.
 A Push request is sending something somewhere else.
 Essentially we will get the Unicorn branch to ask the main branch...
