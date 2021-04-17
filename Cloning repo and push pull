@@ -30,4 +30,7 @@ shift ; q gets you out of VIM
 'git remote' show you your remote server
 'git remote -v' show the remote sever and url (-v means verbose). This allows you to check you are sending to the correct place.
 To push a commit you need to specify the remote server and the branch you want to push to.
-'git push origin mai' to push from your local copy to the main branch in the original repo on GitHub
+'git push origin main' to push from your local copy to the main branch in the original repo on GitHub
+
+changes made to the original repo can be updated in the local copy using
+'git pull origin main'
