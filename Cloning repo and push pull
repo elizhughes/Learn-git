@@ -1,1 +1,18 @@
+You can clone a repo on gitHub to allow you to work on it on your own laptop.
+Get git from https://git-scm.com
+Intall git for windows
 
+Some commands:
+git config  check a specific keys value
+eg git config user.name returns 'Liz Hughes'
+git help <verb> returns help documents
+git add -h  returns a shortened version of help for the command add
+
+On Git Bash (command line) navigate to the GitHub folder on your computer.
+type 'gt'
+You should get lots of info showing git is corectly installrd.
+If you get '-bash: git: command not found' git is not installed properly.
+Using git locally with the command line is all about saying git <something>
+eg git commit to make a commit.
+In order to issue comands you need a folder on your computer that is a git repo
+use git clone <repo url> to clone a repo from GitHub to locally on your computer.
